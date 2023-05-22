@@ -1,0 +1,40 @@
+body {
+
+    background-image: url("https://images.pexels.com/photos/3695378/pexels-photo-3695378.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  
+  .navbar {
+    background-color: #f8d3d9;
+  }
+  
+  .navbar-brand span {
+    color: #ff4081;
+    font-size: 24px;
+  }
+  
+  .navbar-brand {
+    font-family: 'Pinyon Script', cursive;
+  }
+  
+  .nav-item .btn-success {
+    background-color: #ff4081;
+    border-color: #ff4081;
+  }
+  
+  .dropdown-item {
+    color: #ff4081;
+  }
+  
+  .dropdown-item:hover {
+    background-color: #f8d3d9;
+  }
+  
+   
+  .same-size-image {
+      width: 425px;
+      height: 350px;
+  
+    }
