@@ -17,6 +17,8 @@ body {
   
   .navbar-brand {
     font-family: 'Pinyon Script', cursive;
+    font-size: 30px; /* Adjust the font size to your preference */
+     color: rgb(204, 17, 48); /* Set the desired text color */
   }
   
   .nav-item .btn-success {
